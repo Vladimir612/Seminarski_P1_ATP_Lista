@@ -1,0 +1,6 @@
+﻿  dvostruko_spregnuta_lista.c
+D:\FON\Programiranje\Seminarski_Programiranje_1\atp_lista_preko_datoteke_kod\dvostruko_spregnuta_lista.c(21,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  dvostruko_spregnuta_lista_implementacija.c
+D:\FON\Programiranje\Seminarski_Programiranje_1\atp_lista_preko_datoteke_kod\dvostruko_spregnuta_lista_implementacija.c(112,3): warning C4033: 'nadji' must return a value
+D:\FON\Programiranje\Seminarski_Programiranje_1\atp_lista_preko_datoteke_kod\dvostruko_spregnuta_lista_implementacija.c(126): warning C4715: 'nadji': not all control paths return a value
+  seminarski_p1_dvostruko_spregnuta_lista.vcxproj -> D:\FON\Programiranje\Seminarski_Programiranje_1\atp_lista_preko_datoteke_kod\Debug\seminarski_p1_dvostruko_spregnuta_lista.exe
